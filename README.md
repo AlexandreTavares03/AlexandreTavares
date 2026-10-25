@@ -33,8 +33,8 @@ Hoje, aplico essa bagagem profissional nos meus estudos e projetos em **C#, ASP.
 ---
 
 ### 📌 Principais Projetos
-* 🏥 **[Sistema de Clínica Veterinária (CEAN)]():** Projeto acadêmico colaborativo com modelagem UML e foco em Engenharia de Software.
-* 📚 **[Sistema de Gestão de Biblioteca]():** Modelagem de banco de dados relacional (normalização até 3FN) e scripts T-SQL.
+* 🏥 **[Resoluções de exercícios do Beecrowd]():** Atividades acadêmicas para resolução de problemas variados usando soluções em JAVA.
+* 📚 **[Sistema de Gestão de Biblioteca](https://github.com/AlexandreTavares03/biblioteca_uni_bd):** Modelagem de banco de dados relacional (normalização até 3FN) e scripts T-SQL.
 
 ---
 
