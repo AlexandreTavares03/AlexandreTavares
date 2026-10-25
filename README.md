@@ -33,7 +33,7 @@ Hoje, aplico essa bagagem profissional nos meus estudos e projetos em **C#, ASP.
 ---
 
 ### 📌 Principais Projetos
-* 🏥 **[Resoluções de exercícios do Beecrowd]():** Atividades acadêmicas para resolução de problemas variados usando soluções em JAVA.
+* 🏥 **[Resoluções de exercícios do Beecrowd](https://github.com/AlexandreTavares03/ex_beecrowd-java):** Atividades acadêmicas para resolução de problemas variados usando soluções em JAVA.
 * 📚 **[Sistema de Gestão de Biblioteca](https://github.com/AlexandreTavares03/biblioteca_uni_bd):** Modelagem de banco de dados relacional (normalização até 3FN) e scripts T-SQL.
 
 ---
