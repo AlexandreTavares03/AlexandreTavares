@@ -10,7 +10,7 @@
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Cruzeiro e em transição de carreira para a área de Tecnologia.
 
-Com mais de 5 anos de experiência no setor industrial, pude desenvolver habilidades em resolução de problemas, trabalho em equipe e foco em processos operacionais, metas, qualidade de produtos, e segurança durante as operações.
+Com mais de 5 anos de experiência no setor industrial, pude desenvolver habilidades em resolução de problemas, trabalho em equipe, foco em processos operacionais, metas, qualidade de produtos, e segurança durante as operações.
 
 Hoje, aplico essa bagagem profissional nos meus estudos e projetos em **C#, ASP.NET, Banco de Dados (SQL)** e **Engenharia de Software**, além de estar aprendendo **Figma** para design de interfaces. Busco a minha primeira oportunidade de **estágio em desenvolvimento de software / tecnologia** para contribuir com soluções eficientes e continuar evoluindo tecnicamente.
 
