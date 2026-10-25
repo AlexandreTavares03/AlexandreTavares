@@ -39,4 +39,4 @@ Hoje, aplico essa bagagem profissional nos meus estudos e projetos em **C#, ASP.
 ---
 
 ### 📬 Vamos Conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-tavares-almeida)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-tavares-110b76201)
