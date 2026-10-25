@@ -38,5 +38,10 @@ Hoje, aplico essa bagagem profissional nos meus estudos e projetos em **C#, ASP.
 
 ---
 
+### 📌 Projetos no Figma
+📍 **[Ver projeto de UI/UX no Figma](https://www.figma.com/design/PN00Nf8pYuzpKWMwoCSZ3p/AULA2410?node-id=0-1&t=zqceaczgv0zqhYsy-1)**
+
+---
+
 ### 📬 Vamos Conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-tavares-110b76201)
